@@ -46,3 +46,4 @@ t4.join()
 print(score)
 
 time.sleep(4)
+exit()
